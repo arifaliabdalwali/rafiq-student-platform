@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457644452739",
+    "project_id": "rafiq-student-app",
+    "storage_bucket": "rafiq-student-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457644452739:android:cf7095570c733a777264b6",
+        "android_client_info": {
+          "package_name": "com.example.student"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrZxFjV1K3jghhe_i_K3CfN3I5-2YQ48c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
